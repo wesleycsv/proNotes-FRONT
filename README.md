@@ -1,8 +1,38 @@
-# React + Vite
+# FRONT - proNotes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistema de notas para organiza sua vida, suas informações em um só lugar. 
 
-Currently, two official plugins are available:
+![enter image description here](https://github.com/wesleycsv/proNotes-API/blob/main/print.png?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias
+* HTML
+* CSS
+* JAVASCRIPT
+* React
+* Vite
+* react icons
+* React Router
+* react hook
+* axios
+* moment
+* react burger menu
+* react quill
+* styled-components
+
+## Iniciar o FRONT
+
+Para inicar a api e preciso primeiro instalar os pacotes
+
+```sh
+yarn ou npm install
+```
+
+Depois baixe a API 
+https://github.com/wesleycsv/proNotes-API
+
+Agora so é iniciar o projeto
+
+```sh
+yarn dev
+```
+
