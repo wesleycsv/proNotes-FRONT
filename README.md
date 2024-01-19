@@ -29,6 +29,7 @@ yarn ou npm install
 
 Depois baixe a API 
 https://github.com/wesleycsv/proNotes-API
+Siga as instruções e inicie a API para depois iniciar o FRONT
 
 Agora so é iniciar o projeto
 
